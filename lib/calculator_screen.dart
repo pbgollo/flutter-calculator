@@ -143,10 +143,12 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
       default:
     }
     setState(() {
-      number1 = "$result";
+      number1 = result.toStringAsFixed(4);
 
       if(number1.endsWith(".0")){
         number1 = number1.substring(0,number1.length-2);
+      } else if(number1.endsWith(".0000")){
+        number1 = number1.substring(0,number1.length-5);
       }
 
       operand = "";
