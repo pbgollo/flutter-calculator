@@ -1,8 +1,8 @@
-# Pulse: Reprodutor Musical em Java
+# Flutter Calculator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/Pulse?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/Pulse?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/pbgollo/Pulse?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/flutter-calculator?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/flutter-calculator?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/pbgollo/flutter-calculator?style=for-the-badge)
 
 <img src="imagem.png" alt="Exemplo imagem">
 
