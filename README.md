@@ -19,21 +19,18 @@ No projeto, a principal tecnologia adotada foi o Flutter, utilizando a linguagem
 
 Antes de começar, verifique se você atende aos seguintes requisitos:
 
-- Você tem uma máquina Windows
-- Você instalou a versão mais recente do MySQL
-- Você instalou e configurou o Eclipse IDE
+- Você tem uma máquina com o Flutter SDK instalado
+- Você tem um editor de código compatível com o Flutter, como o Visual Studio Code ou o Android Studio
+- Você tem um dispositivo físico com USB disponível ou um emulador configurado para executar a aplicação
 
 ## 🚀 Instalando o Pulse
 
-Para instalar o aplicativo, siga estas etapas:
+Para instalar o aplicativo da calculadora, siga estas etapas:
 
-- Importe o arquivo "Pulse.zip" no Eclipse
-- Modifique o arquivo "/Pulse/auxiliar/properties/database.properties" para acessar o seu banco de dados
-- Execute o arquivo "Principal" que possui o método main
-
-## ☕ Usando o Pulse
-
-Para um melhor entendimento do funcionamento do aplicativo, recomenda-se ler a seção 5 do <a href="/Artigo.pdf">artigo do projeto</a>.
+- Clone este repositório para o seu ambiente local
+- Abra o projeto no seu editor de código
+- Conecte um dispositivo físico via USB ou utilize um emulador
+- Execute o arquivo **"main.dart"** para iniciar a aplicação no dispositivo selecionado.
 
 ## 🤝 Colaboradores
 
@@ -46,22 +43,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://avatars.githubusercontent.com/u/130512644" width="100px;" alt="Foto do Pedro Gollo no GitHub"/><br>
         <sub>
           <b>Pedro Gollo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Schneiderella" title="Perfil da Bárbara no GitHub">
-        <img src="https://avatars.githubusercontent.com/u/110864285" width="100px;" alt="Foto da Bárbara no GitHub"/><br>
-        <sub>
-          <b>Bárbara Schneider</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/FasterThanM" title="Perfil do Franco no GitHub">
-        <img src="https://avatars.githubusercontent.com/u/129175432" width="100px;" alt="Foto do Franco no GitHub"/><br>
-        <sub>
-          <b>Franco Michelon</b>
         </sub>
       </a>
     </td>
