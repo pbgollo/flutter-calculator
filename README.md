@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/flutter-calculator?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/pbgollo/flutter-calculator?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="img.png" alt="Exemplo imagem">
 
 > O Pulse é um reprodutor musical desenvolvido por Pedro Gollo, Bárbara Schneider e Franco Michelon durante a disciplina de Projeto Temático 1, no âmbito do curso de Análise e Desenvolvimento de Sistemas da Universidade de Caxias do Sul. Este aplicativo foi concebido com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso, com ênfase em programação orientada a objetos (POO), fundamentos de banco de dados e princípios fundamentais de engenharia de software. O Pulse oferece aos usuários uma experiência musical completa e prática, sendo uma demonstração da capacidade de desenvolver aplicações funcionais e eficazes usando a linguagem Java e a interface gráfica do Swing.
 
