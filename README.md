@@ -6,7 +6,7 @@
 
 <img src="img.png" alt="Exemplo imagem">
 
-> O Pulse é um reprodutor musical desenvolvido por Pedro Gollo, Bárbara Schneider e Franco Michelon durante a disciplina de Projeto Temático 1, no âmbito do curso de Análise e Desenvolvimento de Sistemas da Universidade de Caxias do Sul. Este aplicativo foi concebido com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso, com ênfase em programação orientada a objetos (POO), fundamentos de banco de dados e princípios fundamentais de engenharia de software. O Pulse oferece aos usuários uma experiência musical completa e prática, sendo uma demonstração da capacidade de desenvolver aplicações funcionais e eficazes usando a linguagem Java e a interface gráfica do Swing.
+> Este projeto é uma calculadora desenvolvida utilizando o framework Flutter e a linguagem Dart. A calculadora oferece uma variedade de funcionalidades matemáticas e uma interface intuitiva para facilitar o uso. Ela foi projetada para funcionar em dispositivos Android e iOS, proporcionando uma experiência consistente em diferentes plataformas.
 
 ## 🔧 Tecnologias Utilizadas
 
